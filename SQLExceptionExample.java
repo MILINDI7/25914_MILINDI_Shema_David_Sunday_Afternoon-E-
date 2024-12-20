@@ -1,3 +1,4 @@
+// Demonstrating to connect to a non-existent database or execute invalid SQL
 import java.sql.*;
 import java.util.Scanner;
 
