@@ -1,3 +1,4 @@
+// Demonstrating to convert a string to a number when the format is invalid
 import java.util.Scanner;
 
 public class NumberFormatExceptionExample {
