@@ -1,3 +1,4 @@
+// Demonstrating an invalid type cast
 import java.util.Scanner;
 
 public class ClassCastExceptionExample {
