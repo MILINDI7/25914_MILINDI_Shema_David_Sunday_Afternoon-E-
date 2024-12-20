@@ -1,3 +1,4 @@
+// this is the main
 public class ExceptionExamples {
     public static void main(String[] args) {
         System.out.println("Demonstrating Checked Exceptions:");
