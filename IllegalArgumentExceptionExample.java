@@ -1,3 +1,4 @@
+// Demonstrating hoe to handle when there is Passing an invalid argument to a method.
 import java.util.Scanner;
 
 public class IllegalArgumentExceptionExample {
