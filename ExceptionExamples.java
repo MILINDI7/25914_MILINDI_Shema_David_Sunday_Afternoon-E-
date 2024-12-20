@@ -11,7 +11,7 @@ public class ExceptionExamples {
         System.out.println("\nDemonstrating Unchecked Exceptions:");
         ArithmeticExceptionExample.run();
         NullPointerExceptionExample.run();
-        ArrayIndexOutOfBoundsExceptionExample.run();
+        ArrayIndexOutofBoundsExceptionExample.run();
         ClassCastExceptionExample.run();
         IllegalArgumentExceptionExample.run();
         NumberFormatExceptionExample.run();
