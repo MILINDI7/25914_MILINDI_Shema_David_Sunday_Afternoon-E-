@@ -1,3 +1,4 @@
+// Demonstrating accesing a null point
 import java.util.Scanner;
 
 public class NullPointerExceptionExample {
